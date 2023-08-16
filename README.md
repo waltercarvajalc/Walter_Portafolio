@@ -1,2 +1,2 @@
-# Walter_Portafolio
- ReactJS
+# W_Portafolio
+ React Js
